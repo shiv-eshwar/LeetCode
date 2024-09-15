@@ -5,9 +5,9 @@ public:
     int left = 0;
         int right = height.size()-1;
         while(left<right){
-            int ht = min(height[left], height[right]);
+            int min_height = min(height[left], height[right]);
             int width = right-left;
-            int area = ht*width;
+            int area = min_height*width;
             max_area =max(max_area, area);
             
             if (height[left]< height[right]){
