@@ -29,7 +29,7 @@ class Solution {
             result += multiple;
         }
 
-        // Apply the sign to the result
+        
         return negative ? -result : result;
     }
 }
