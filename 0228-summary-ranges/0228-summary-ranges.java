@@ -14,7 +14,7 @@ class Solution {
                 if (start == nums[i - 1]) {
                     result.add(String.valueOf(start));  
                 } else {
-                    result.add(start + "->" + nums[i - 1]);  // Range
+                    result.add(start + "->" + nums[i - 1]);  
                 }
                 
                 start = nums[i];
