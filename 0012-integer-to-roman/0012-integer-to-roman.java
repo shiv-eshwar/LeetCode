@@ -7,7 +7,6 @@ class Solution {
             while( num >= value[i]){
                 roman.append(numerals[i]);
                 num -= value[i];
-                
             }
         }
         return roman.toString();
