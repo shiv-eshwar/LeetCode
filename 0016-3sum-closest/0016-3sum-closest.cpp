@@ -21,9 +21,9 @@ public:
             if (currentSum < target) {
                 ++left; // We need a larger sum, so move left pointer right
             } else if (currentSum > target) {
-                --right; // We need a smaller sum, so move right pointer left
+                --right; 
             } else {
-                return currentSum; // If we find an exact match, return immediately
+                return currentSum; 
             }
         }
     }
