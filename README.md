@@ -27,5 +27,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shiv-eshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/shiv-eshwar/LeetCode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shiv-eshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shiv-eshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
