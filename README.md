@@ -46,10 +46,12 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shiv-eshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shiv-eshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shiv-eshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Bit Manipulation
