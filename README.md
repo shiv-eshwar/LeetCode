@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiv-eshwar/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shiv-eshwar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shiv-eshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shiv-eshwar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shiv-eshwar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shiv-eshwar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shiv-eshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
