@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiv-eshwar/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/shiv-eshwar/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/shiv-eshwar/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shiv-eshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/shiv-eshwar/LeetCode/tree/master/0056-merge-intervals) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/shiv-eshwar/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/shiv-eshwar/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shiv-eshwar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shiv-eshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/shiv-eshwar/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/shiv-eshwar/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shiv-eshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/shiv-eshwar/LeetCode/tree/master/0283-move-zeroes) |
