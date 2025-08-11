@@ -5,7 +5,7 @@ public:
     int n = nums.size();
     int closestSum = nums[0] + nums[1] + nums[2]; // Initialize the closest sum with the first triplet sum
     
-    // Iterate through the array
+    // iterating thorugh the array 
     for (int i = 0; i < n - 2; ++i) {
         int left = i + 1, right = n - 1;
         
