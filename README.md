@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shiv-eshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/shiv-eshwar/LeetCode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
