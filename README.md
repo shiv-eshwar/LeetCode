@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shiv-eshwar/LeetCode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
 ## Queue
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiv-eshwar/LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
