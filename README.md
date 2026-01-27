@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/shiv-eshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/shiv-eshwar/LeetCode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiv-eshwar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shiv-eshwar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shiv-eshwar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shiv-eshwar/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiv-eshwar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shiv-eshwar/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
