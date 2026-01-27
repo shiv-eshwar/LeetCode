@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shiv-eshwar/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/shiv-eshwar/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/shiv-eshwar/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shiv-eshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/shiv-eshwar/LeetCode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/shiv-eshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiv-eshwar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
