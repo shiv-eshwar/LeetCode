@@ -1,6 +1,9 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
         ans = []
+        for i in range(n+1):
+            ans.append(self.numofsetbit(i))
+        return ans
 
         # def countnumones(nums: int) -> int:
         #     count = 0
@@ -17,14 +20,11 @@ class Solution:
 
         #    ans.append(b)
 
-        def numofsetbit(nums:int)-> int:
-            count =0
-            for i in range(32):
-                if(nums & (1<<i))> 0:
-                    count=count+1
-            
-            return count
-        for i in range(n+1):
-            ans.append(numofsetbit(i))
+    def numofsetbit(self, nums:int)-> int:
+        count =0
+        for i in range(32):
+            if(nums & (1<<i))> 0:
+                count=count+1
         
-        return ans
+        return count
+        
