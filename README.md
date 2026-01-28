@@ -66,6 +66,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shiv-eshwar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shiv-eshwar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/shiv-eshwar/LeetCode/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0136-single-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shiv-eshwar/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/shiv-eshwar/LeetCode/tree/master/0338-counting-bits) |
 ## Queue
 |  |
 | ------- |
