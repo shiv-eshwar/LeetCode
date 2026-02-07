@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shiv-eshwar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/shiv-eshwar/LeetCode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/shiv-eshwar/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv-eshwar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiv-eshwar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shiv-eshwar/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/shiv-eshwar/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shiv-eshwar/LeetCode/tree/master/0190-reverse-bits) |
@@ -125,6 +127,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shiv-eshwar/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
 ## Divide and Conquer
 |  |
