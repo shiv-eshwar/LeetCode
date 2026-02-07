@@ -5,4 +5,4 @@ class Solution:
 
         arr_sum= sum(nums)
 
-        return(total_sum-arr_sum)
+        return(total_sum-arr_sum) # this is the easiest method but now i will try to do with the bit wise operator;
