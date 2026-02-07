@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shiv-eshwar/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/shiv-eshwar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/shiv-eshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
