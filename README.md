@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shiv-eshwar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/shiv-eshwar/LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shiv-eshwar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/shiv-eshwar/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shiv-eshwar/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shiv-eshwar/LeetCode/tree/master/0190-reverse-bits) |
