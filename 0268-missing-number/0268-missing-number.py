@@ -1,8 +1,12 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n= len(nums)
-        total_sum = (n*(n+1))//2
+        
+        x= 0
+        for i in range(0,n+1):
+            x = x ^ i
+        y = 0
+        for i in range(0,n):
+            y = y ^ nums[i]
 
-        arr_sum= sum(nums)
-
-        return(total_sum-arr_sum) # this is the easiest method but now i will try to do with the bit wise operator;
+        return x^y
